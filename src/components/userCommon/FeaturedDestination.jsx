@@ -1,6 +1,6 @@
 import React from 'react'
 import {roomsDummyData , assets} from '../../assets/assets'
-import HotelCard from './hotelCard'
+import HotelCard from './HotelCard'
 import { Button , Box } from "@mui/material";
 import Title from './Title';
 import { useNavigate } from 'react-router-dom';
